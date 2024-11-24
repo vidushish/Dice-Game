@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #181818;
+}
+#heading{
+    display: flex;
+    margin-top: 90px;
+    color: #DFF2EB;
+    font-size: 3rem;
+    justify-content: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.under{
+    text-decoration:dashed underline;
+}
+#head2{
+    margin-top: 40px;
+    color: #DFF2EB;
+    display: flex;
+    font-size: 2rem;
+    font-family:serif;
+    justify-content: center;
+}
+#player{
+    color: #7AB2D3;
+    margin-top: 30px;
+    display: flex;
+    font-size: 1.5rem;
+    justify-content: center;
+    justify-content:space-evenly;
+    ;
+}
+#dice{
+    display: flex;
+    margin-top: 30px;
+    justify-content: center;
+    height: 240px;
+    justify-content:space-evenly;
+}
+#small{
+    font-size: 1.2rem;
+}
